@@ -26,6 +26,11 @@ body{
     font-family: Bold;
     padding: 10px 20px;
     border: 1px solid #E9204F;
+    transition: .4s;
+}
+
+.right-wtext a:hover{
+    background-color: #E9204F;
 }
 
 .works-text{
