@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: Bold;
+    src: url('../fonts/roboto/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: BoldTrade;
+    src: url('../fonts/tradegothic/Trade\ Gothic\ LT\ Bold.ttf');
+}
+
+@font-face {
+    font-family: Light;
+    src: url('../fonts/robotocondensed/RobotoCondensed-Light.ttf');
+}
